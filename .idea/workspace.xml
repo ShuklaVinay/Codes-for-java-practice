@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0bd84f60-21ed-414d-9b27-1a37a58990ee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Pattern1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,7 @@
     "onboarding.tips.debug.path": "/Users/vinay/IdeaProjects/Codes for java practice/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Pattern2">
     <configuration name="Pattern1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Pattern1" />
       <module name="Codes for java practice" />
@@ -48,8 +48,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Pattern2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pattern2" />
+      <module name="Codes for java practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pattern2" />
         <item itemvalue="Application.Pattern1" />
       </list>
     </recent_temporary>
