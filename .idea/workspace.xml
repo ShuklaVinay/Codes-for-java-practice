@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0bd84f60-21ed-414d-9b27-1a37a58990ee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ArmstrongN.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +39,7 @@
     "onboarding.tips.debug.path": "/Users/vinay/IdeaProjects/Codes for java practice/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ArmstrongN">
+  <component name="RunManager" selected="Application.Temp">
     <configuration name="ArmstrongN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArmstrongN" />
       <module name="Codes for java practice" />
@@ -62,13 +61,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pattern12" />
-      <module name="Codes for java practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Reverse" />
       <module name="Codes for java practice" />
@@ -76,13 +68,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Temp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Temp" />
+      <module name="Codes for java practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Temp" />
         <item itemvalue="Application.ArmstrongN" />
         <item itemvalue="Application.Reverse" />
         <item itemvalue="Application.DigitSum" />
         <item itemvalue="Application.Palindrom" />
-        <item itemvalue="Application.Pattern12" />
       </list>
     </recent_temporary>
   </component>
