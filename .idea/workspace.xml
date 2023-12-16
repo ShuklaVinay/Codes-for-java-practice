@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0bd84f60-21ed-414d-9b27-1a37a58990ee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DigitSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +40,7 @@
     "onboarding.tips.debug.path": "/Users/vinay/IdeaProjects/Codes for java practice/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.DigitSum">
+  <component name="RunManager" selected="Application.Reverse">
     <configuration name="DigitSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DigitSum" />
       <module name="Codes for java practice" />
@@ -49,13 +50,6 @@
     </configuration>
     <configuration name="Palindrom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Palindrom" />
-      <module name="Codes for java practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Pattern11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pattern11" />
       <module name="Codes for java practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,13 +69,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Reverse" />
+      <module name="Codes for java practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Reverse" />
         <item itemvalue="Application.DigitSum" />
         <item itemvalue="Application.Palindrom" />
         <item itemvalue="Application.Pattern12" />
         <item itemvalue="Application.Pattern2" />
-        <item itemvalue="Application.Pattern11" />
       </list>
     </recent_temporary>
   </component>
