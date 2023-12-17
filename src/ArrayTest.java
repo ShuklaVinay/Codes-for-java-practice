@@ -13,6 +13,7 @@ public class ArrayTest {
         {
             number[i]=sc.nextInt();
         }
+        //for output
         System.out.println("entered array elements are=");
         for(int i=0;i< number.length;i++)
         {
