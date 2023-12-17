@@ -1,7 +1,8 @@
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.IOException;
-public class UserIntT {
+public class UserIntT
+{
     static void sum(int a,int b)
     {
         int c=a+b;
