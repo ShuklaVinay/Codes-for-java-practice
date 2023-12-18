@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0bd84f60-21ed-414d-9b27-1a37a58990ee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Pattern18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern20.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,11 +36,12 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ToolWindowRun.ShowToolbar": "false",
     "git-widget-placeholder": "main",
     "onboarding.tips.debug.path": "/Users/vinay/IdeaProjects/Codes for java practice/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Pattern18">
+  <component name="RunManager" selected="Application.Pattern20">
     <configuration name="Pattaern14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Pattaern14" />
       <module name="Codes for java practice" />
@@ -50,13 +51,6 @@
     </configuration>
     <configuration name="Pattern13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Pattern13" />
-      <module name="Codes for java practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Pattern16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pattern16" />
       <module name="Codes for java practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,13 +70,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Pattern20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pattern20" />
+      <module name="Codes for java practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pattern20" />
         <item itemvalue="Application.Pattern18" />
         <item itemvalue="Application.Pattern17" />
         <item itemvalue="Application.Pattaern14" />
         <item itemvalue="Application.Pattern13" />
-        <item itemvalue="Application.Pattern16" />
       </list>
     </recent_temporary>
   </component>
