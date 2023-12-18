@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0bd84f60-21ed-414d-9b27-1a37a58990ee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Pattern13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattaern14.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,9 +40,9 @@
     "onboarding.tips.debug.path": "/Users/vinay/IdeaProjects/Codes for java practice/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Pattern13">
-    <configuration name="ArrayStringV" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayStringV" />
+  <component name="RunManager" selected="Application.Pattaern14">
+    <configuration name="Pattaern14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pattaern14" />
       <module name="Codes for java practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pattaern14" />
         <item itemvalue="Application.Pattern13" />
         <item itemvalue="Application.SearchValueInTwoD" />
         <item itemvalue="Application.StingArrayTwoD" />
         <item itemvalue="Application.UserInputTwoD" />
-        <item itemvalue="Application.ArrayStringV" />
       </list>
     </recent_temporary>
   </component>
