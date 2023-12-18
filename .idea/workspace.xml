@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0bd84f60-21ed-414d-9b27-1a37a58990ee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/UserInputTwoD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StingArrayTwoD.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +39,7 @@
     "onboarding.tips.debug.path": "/Users/vinay/IdeaProjects/Codes for java practice/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.UserInputTwoD">
+  <component name="RunManager" selected="Application.StingArrayTwoD">
     <configuration name="AddTwoMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AddTwoMatrix" />
       <module name="Codes for java practice" />
@@ -55,15 +54,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayTwoD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayTwoD" />
+    <configuration name="MultiplyTwoMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultiplyTwoMatrix" />
       <module name="Codes for java practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiplyTwoMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MultiplyTwoMatrix" />
+    <configuration name="StingArrayTwoD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StingArrayTwoD" />
       <module name="Codes for java practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StingArrayTwoD" />
         <item itemvalue="Application.UserInputTwoD" />
         <item itemvalue="Application.ArrayStringV" />
         <item itemvalue="Application.MultiplyTwoMatrix" />
         <item itemvalue="Application.AddTwoMatrix" />
-        <item itemvalue="Application.ArrayTwoD" />
       </list>
     </recent_temporary>
   </component>
