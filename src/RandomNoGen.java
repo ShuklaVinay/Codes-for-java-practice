@@ -12,7 +12,7 @@ public class RandomNoGen {
             guess = sc.nextInt();
 
             if (ans == guess) {
-                System.out.println("Congratulations! you guess the correct number & win 100 cash money." + ans);
+                System.out.println("Congratulations! you guess the correct number"+ ans +"& win 100 cash money." );
 
             } else {
                 System.out.println("Sorry! Your number choice is wrong.");
