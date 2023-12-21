@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0bd84f60-21ed-414d-9b27-1a37a58990ee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SwapTwoNo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwapTwoN1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +40,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;/Users/vinay/IdeaProjects/Codes for java practice/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SwapTwoNo">
+  <component name="RunManager" selected="Application.SwapTwoN1">
     <configuration name="ArrayMaxMinV" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayMaxMinV" />
       <module name="Codes for java practice" />
@@ -63,8 +62,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PerfectN1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PerfectN1" />
+    <configuration name="SwapTwoN1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwapTwoN1" />
       <module name="Codes for java practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SwapTwoN1" />
         <item itemvalue="Application.SwapTwoNo" />
         <item itemvalue="Application.DecsendingSort" />
         <item itemvalue="Application.AssendingSort" />
         <item itemvalue="Application.ArrayMaxMinV" />
-        <item itemvalue="Application.PerfectN1" />
       </list>
     </recent_temporary>
   </component>
