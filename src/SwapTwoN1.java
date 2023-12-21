@@ -9,7 +9,7 @@ public class SwapTwoN1 {
         a=a*b;
         b=a/b;
         a=a/b;
-        System.out.println("Swapped  value by using bitwise operator(XOR ^) :");
+        System.out.println("Swapped  value by using division & multiplication :");
         System.out.println("a="+" "+a+" "+"b="+" "+b);
     }
 
