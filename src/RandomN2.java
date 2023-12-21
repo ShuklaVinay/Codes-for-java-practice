@@ -1,3 +1,5 @@
+//random number program
+
 import java.util.Random;
 import java.util.Scanner;
 

@@ -12,15 +12,16 @@ public class ArrayMaxMinV {
         {
             num[i]=sc.nextInt();
         }
-        int max=Integer.MIN_VALUE;
-        int min=Integer.MAX_VALUE;
+        int max=Integer.MIN_VALUE;    //-2147483648
+
+        int min=Integer.MAX_VALUE;  // 2147483647
         for (int i=0;i<num.length;i++)
         {
-            if(num[i]< min)
+            if(num[i]< min)   //2147483647
             {
                 min=num[i];
             }
-            if(num[i]>max)
+            if(num[i]>max)  //2147483648
             {
                 max=num[i];
             }

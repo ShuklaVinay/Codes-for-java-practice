@@ -19,7 +19,6 @@ public class AssendingSort {
 
     public static void main(String[] args) {
         int[] a = new int[]{78, 34, 1, 3, 90, 34, -1, -4, 6, 55, 20, -7777, -99, 65};
-
         int[] newArr = customSort(a);
         for (int i = 0; i < newArr.length; i++) {
             System.out.println(a[i]);
