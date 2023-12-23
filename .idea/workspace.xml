@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0bd84f60-21ed-414d-9b27-1a37a58990ee" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Array1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayFloatS.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SwapTwoN2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwapTwoN2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pattern5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,37 +48,37 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;/Users/vinay/IdeaProjects/Codes for java practice/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SwapTwoN2">
-    <configuration name="AssendingSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AssendingSort" />
+  <component name="RunManager" selected="Application.pattern5">
+    <configuration name="Array3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array3" />
       <module name="Codes for java practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DecsendingSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DecsendingSort" />
+    <configuration name="Array4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array4" />
       <module name="Codes for java practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwapTwoN1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwapTwoN1" />
+    <configuration name="Array5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array5" />
       <module name="Codes for java practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwapTwoN2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwapTwoN2" />
+    <configuration name="Array6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array6" />
       <module name="Codes for java practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwapTwoNo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwapTwoNo" />
+    <configuration name="pattern5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pattern5" />
       <module name="Codes for java practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SwapTwoN2" />
-        <item itemvalue="Application.SwapTwoN1" />
-        <item itemvalue="Application.SwapTwoNo" />
-        <item itemvalue="Application.DecsendingSort" />
-        <item itemvalue="Application.AssendingSort" />
+        <item itemvalue="Application.pattern5" />
+        <item itemvalue="Application.Array6" />
+        <item itemvalue="Application.Array5" />
+        <item itemvalue="Application.Array4" />
+        <item itemvalue="Application.Array3" />
       </list>
     </recent_temporary>
   </component>
